@@ -25,3 +25,13 @@
 
 
 </div>
+
+
+<h2 align="left"> Estudando no momento: </h2>
+
+<div align="center"> 
+<img align="center" height="84" width="84" src="https://github.com/ana-luizaa/ana-luizaa/assets/164914844/afbe2fff-d045-4979-8039-8d29b4de589d">
+
+<img align="center" height="80" width="80" src="https://github.com/ana-luizaa/ana-luizaa/assets/164914844/b0b4f894-8a0e-4d3c-b0ed-1d5ea4ae9d7b">
+
+<img align="center"  height="80" width="80" src="https://github.com/ana-luizaa/ana-luizaa/assets/164914844/c592d678-c6f4-41d5-8fc2-621bc8781fde">
