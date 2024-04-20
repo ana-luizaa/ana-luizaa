@@ -7,4 +7,6 @@
 <br>
 <br>
 
-
+<div align="center">
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ana-luizaa&theme=dark&card_width=900)](https://git.io/streak-stats)
