@@ -35,6 +35,8 @@
 
 <img align="center"  height="80" width="80" src="https://github.com/ana-luizaa/ana-luizaa/assets/164914844/c592d678-c6f4-41d5-8fc2-621bc8781fde">
 
+<div/>
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=140&color=ffffff&section=footer"/>
 
 
