@@ -20,7 +20,7 @@
 
 
 <a href="mailto:cmp.1a.analuiza222r@gmail.com">
-<img align="center"  height="80" width="80" src="">
+<img align="center"  height="80" width="80" src="https://github.com/ana-luizaa/ana-luizaa/assets/164914844/6f3ef310-ef45-4fd0-84be-c96e014f428b">
 </a>
 
 
